@@ -10,6 +10,7 @@ TASK 1: WHO WILL SHARE MY LOAD?
 • On subsequent request from the client for the same page, we will return it from the cache.
 
 • Points to be noted:
+    
     1.  Rendering from internet: Serving the page for the first time and downloading it & storing it the cache.
     2.  Rendering from cache: Searching for the request page and returning it from cache.
 
